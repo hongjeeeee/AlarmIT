@@ -45,9 +45,9 @@
 ## 화면
 
 <p align="center">
-  <img src="docs/screenshots/04-main.png" width="200" alt="공지 목록"/>
-  <img src="docs/screenshots/05-bookmark.png" width="200" alt="북마크"/>
-  <img src="docs/screenshots/06-alarm-settings.png" width="200" alt="알림 설정"/>
+  <img src="docs/screenshots/04-main.png" width="240" alt="공지 목록"/>
+  <img src="docs/screenshots/05-bookmark.png" width="240" alt="북마크"/>
+  <img src="docs/screenshots/06-alarm-settings.png" width="240" alt="알림 설정"/>
 </p>
 
 <p align="center">
@@ -55,9 +55,9 @@
 </p>
 
 <p align="center">
-  <img src="docs/screenshots/01-consent.png" width="200" alt="개인정보 동의"/>
-  <img src="docs/screenshots/02-major-select.png" width="200" alt="전공 선택"/>
-  <img src="docs/screenshots/03-alarm-major.png" width="200" alt="알림 받을 학과"/>
+  <img src="docs/screenshots/01-consent.png" width="240" alt="개인정보 동의"/>
+  <img src="docs/screenshots/02-major-select.png" width="240" alt="전공 선택"/>
+  <img src="docs/screenshots/03-alarm-major.png" width="240" alt="알림 받을 학과"/>
 </p>
 
 <p align="center">
