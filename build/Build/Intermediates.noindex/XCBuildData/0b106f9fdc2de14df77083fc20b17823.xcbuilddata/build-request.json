@@ -1,0 +1,63 @@
+{
+  "buildCommand" : {
+    "command" : "build",
+    "skipDependencies" : false,
+    "style" : "buildOnly"
+  },
+  "configuredTargets" : [
+    {
+      "guid" : "909902000a31036871f440f9fdb589239573fea75c730cf64610ee08e6cd71cd"
+    }
+  ],
+  "containerPath" : "/Users/hongje/Downloads/ios-main/NotificationIT-Swift/NotificationIT.xcworkspace",
+  "continueBuildingAfterErrors" : false,
+  "dependencyScope" : "workspace",
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "activeArchitecture" : "undefined_arch",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : true,
+      "platform" : "iphonesimulator",
+      "sdk" : "iphonesimulator26.2",
+      "sdkVariant" : "iphonesimulator",
+      "supportedArchitectures" : [
+        "i386",
+        "x86_64"
+      ],
+      "targetArchitecture" : "undefined_arch"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/hongje/Downloads/ios-main/NotificationIT-Swift/build/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/hongje/Downloads/ios-main/NotificationIT-Swift/build/Build/Products",
+      "derivedDataPath" : "/Users/hongje/Downloads/ios-main/NotificationIT-Swift/build",
+      "indexDataStoreFolderPath" : "/Users/hongje/Downloads/ios-main/NotificationIT-Swift/build/Index.noindex/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/hongje/Downloads/ios-main/NotificationIT-Swift/build/Index.noindex/PrecompiledHeaders",
+      "pchPath" : "/Users/hongje/Downloads/ios-main/NotificationIT-Swift/build/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "commandLine" : {
+        "table" : {
+          "CODE_SIGNING_ALLOWED" : "NO"
+        }
+      },
+      "synthesized" : {
+        "table" : {
+          "ACTION" : "build",
+          "ENABLE_PREVIEWS" : "NO",
+          "ENABLE_XOJIT_PREVIEWS" : "YES",
+          "ONLY_ACTIVE_ARCH" : "YES"
+        }
+      }
+    }
+  },
+  "schemeCommand" : "launch",
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}

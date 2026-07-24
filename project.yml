@@ -1,0 +1,25 @@
+# XcodeGen 설정. `xcodegen generate` 후 `pod install` → NotificationIT.xcworkspace 빌드.
+name: NotificationIT
+options:
+  bundleIdPrefix: com.uou
+  deploymentTarget:
+    iOS: "16.0"
+  createIntermediateGroups: true
+
+targets:
+  NotificationIT:
+    type: application
+    platform: iOS
+    sources:
+      - path: NotificationIT
+    settings:
+      base:
+        PRODUCT_BUNDLE_IDENTIFIER: com.uou.alarmit
+        MARKETING_VERSION: "1.0.4"
+        CURRENT_PROJECT_VERSION: "1"
+        INFOPLIST_FILE: NotificationIT/Info.plist
+        CODE_SIGN_ENTITLEMENTS: NotificationIT/NotificationIT.entitlements
+        SWIFT_VERSION: "5.0"
+        ASSETCATALOG_COMPILER_APPICON_NAME: AppIcon
+        GENERATE_INFOPLIST_FILE: NO
+        TARGETED_DEVICE_FAMILY: "1,2"

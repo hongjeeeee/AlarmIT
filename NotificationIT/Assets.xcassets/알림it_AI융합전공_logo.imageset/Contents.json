@@ -1,0 +1,15 @@
+{
+  "images" : [
+    {
+      "filename" : "알림it_AI융합전공_logo.svg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  },
+  "properties" : {
+    "preserves-vector-representation" : true
+  }
+}

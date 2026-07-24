@@ -1,0 +1,229 @@
+{
+  "" : {
+    "diagnostics" : "/Users/hongje/Downloads/ios-main/NotificationIT-Swift/build/Build/Intermediates.noindex/NotificationIT.build/Debug-iphonesimulator/NotificationIT.build/Objects-normal/x86_64/NotificationIT-primary.dia",
+    "emit-module-dependencies" : "/Users/hongje/Downloads/ios-main/NotificationIT-Swift/build/Build/Intermediates.noindex/NotificationIT.build/Debug-iphonesimulator/NotificationIT.build/Objects-normal/x86_64/NotificationIT-primary-emit-module.d",
+    "emit-module-diagnostics" : "/Users/hongje/Downloads/ios-main/NotificationIT-Swift/build/Build/Intermediates.noindex/NotificationIT.build/Debug-iphonesimulator/NotificationIT.build/Objects-normal/x86_64/NotificationIT-primary-emit-module.dia",
+    "pch" : "/Users/hongje/Downloads/ios-main/NotificationIT-Swift/build/Build/Intermediates.noindex/NotificationIT.build/Debug-iphonesimulator/NotificationIT.build/Objects-normal/x86_64/NotificationIT-primary-Bridging-header.pch",
+    "swift-dependencies" : "/Users/hongje/Downloads/ios-main/NotificationIT-Swift/build/Build/Intermediates.noindex/NotificationIT.build/Debug-iphonesimulator/NotificationIT.build/Objects-normal/x86_64/NotificationIT-primary.swiftdeps"
+  },
+  "/Users/hongje/Downloads/ios-main/NotificationIT-Swift/NotificationIT/ApiService.swift" : {
+    "const-values" : "/Users/hongje/Downloads/ios-main/NotificationIT-Swift/build/Build/Intermediates.noindex/NotificationIT.build/Debug-iphonesimulator/NotificationIT.build/Objects-normal/x86_64/ApiService.swiftconstvalues",
+    "dependencies" : "/Users/hongje/Downloads/ios-main/NotificationIT-Swift/build/Build/Intermediates.noindex/NotificationIT.build/Debug-iphonesimulator/NotificationIT.build/Objects-normal/x86_64/ApiService.d",
+    "diagnostics" : "/Users/hongje/Downloads/ios-main/NotificationIT-Swift/build/Build/Intermediates.noindex/NotificationIT.build/Debug-iphonesimulator/NotificationIT.build/Objects-normal/x86_64/ApiService.dia",
+    "index-unit-output-path" : "/NotificationIT.build/Debug-iphonesimulator/NotificationIT.build/Objects-normal/x86_64/ApiService.o",
+    "llvm-bc" : "/Users/hongje/Downloads/ios-main/NotificationIT-Swift/build/Build/Intermediates.noindex/NotificationIT.build/Debug-iphonesimulator/NotificationIT.build/Objects-normal/x86_64/ApiService.bc",
+    "object" : "/Users/hongje/Downloads/ios-main/NotificationIT-Swift/build/Build/Intermediates.noindex/NotificationIT.build/Debug-iphonesimulator/NotificationIT.build/Objects-normal/x86_64/ApiService.o",
+    "swift-dependencies" : "/Users/hongje/Downloads/ios-main/NotificationIT-Swift/build/Build/Intermediates.noindex/NotificationIT.build/Debug-iphonesimulator/NotificationIT.build/Objects-normal/x86_64/ApiService.swiftdeps",
+    "swiftmodule" : "/Users/hongje/Downloads/ios-main/NotificationIT-Swift/build/Build/Intermediates.noindex/NotificationIT.build/Debug-iphonesimulator/NotificationIT.build/Objects-normal/x86_64/ApiService~partial.swiftmodule"
+  },
+  "/Users/hongje/Downloads/ios-main/NotificationIT-Swift/NotificationIT/AppDelegate.swift" : {
+    "const-values" : "/Users/hongje/Downloads/ios-main/NotificationIT-Swift/build/Build/Intermediates.noindex/NotificationIT.build/Debug-iphonesimulator/NotificationIT.build/Objects-normal/x86_64/AppDelegate.swiftconstvalues",
+    "dependencies" : "/Users/hongje/Downloads/ios-main/NotificationIT-Swift/build/Build/Intermediates.noindex/NotificationIT.build/Debug-iphonesimulator/NotificationIT.build/Objects-normal/x86_64/AppDelegate.d",
+    "diagnostics" : "/Users/hongje/Downloads/ios-main/NotificationIT-Swift/build/Build/Intermediates.noindex/NotificationIT.build/Debug-iphonesimulator/NotificationIT.build/Objects-normal/x86_64/AppDelegate.dia",
+    "index-unit-output-path" : "/NotificationIT.build/Debug-iphonesimulator/NotificationIT.build/Objects-normal/x86_64/AppDelegate.o",
+    "llvm-bc" : "/Users/hongje/Downloads/ios-main/NotificationIT-Swift/build/Build/Intermediates.noindex/NotificationIT.build/Debug-iphonesimulator/NotificationIT.build/Objects-normal/x86_64/AppDelegate.bc",
+    "object" : "/Users/hongje/Downloads/ios-main/NotificationIT-Swift/build/Build/Intermediates.noindex/NotificationIT.build/Debug-iphonesimulator/NotificationIT.build/Objects-normal/x86_64/AppDelegate.o",
+    "swift-dependencies" : "/Users/hongje/Downloads/ios-main/NotificationIT-Swift/build/Build/Intermediates.noindex/NotificationIT.build/Debug-iphonesimulator/NotificationIT.build/Objects-normal/x86_64/AppDelegate.swiftdeps",
+    "swiftmodule" : "/Users/hongje/Downloads/ios-main/NotificationIT-Swift/build/Build/Intermediates.noindex/NotificationIT.build/Debug-iphonesimulator/NotificationIT.build/Objects-normal/x86_64/AppDelegate~partial.swiftmodule"
+  },
+  "/Users/hongje/Downloads/ios-main/NotificationIT-Swift/NotificationIT/AppRouter.swift" : {
+    "const-values" : "/Users/hongje/Downloads/ios-main/NotificationIT-Swift/build/Build/Intermediates.noindex/NotificationIT.build/Debug-iphonesimulator/NotificationIT.build/Objects-normal/x86_64/AppRouter.swiftconstvalues",
+    "dependencies" : "/Users/hongje/Downloads/ios-main/NotificationIT-Swift/build/Build/Intermediates.noindex/NotificationIT.build/Debug-iphonesimulator/NotificationIT.build/Objects-normal/x86_64/AppRouter.d",
+    "diagnostics" : "/Users/hongje/Downloads/ios-main/NotificationIT-Swift/build/Build/Intermediates.noindex/NotificationIT.build/Debug-iphonesimulator/NotificationIT.build/Objects-normal/x86_64/AppRouter.dia",
+    "index-unit-output-path" : "/NotificationIT.build/Debug-iphonesimulator/NotificationIT.build/Objects-normal/x86_64/AppRouter.o",
+    "llvm-bc" : "/Users/hongje/Downloads/ios-main/NotificationIT-Swift/build/Build/Intermediates.noindex/NotificationIT.build/Debug-iphonesimulator/NotificationIT.build/Objects-normal/x86_64/AppRouter.bc",
+    "object" : "/Users/hongje/Downloads/ios-main/NotificationIT-Swift/build/Build/Intermediates.noindex/NotificationIT.build/Debug-iphonesimulator/NotificationIT.build/Objects-normal/x86_64/AppRouter.o",
+    "swift-dependencies" : "/Users/hongje/Downloads/ios-main/NotificationIT-Swift/build/Build/Intermediates.noindex/NotificationIT.build/Debug-iphonesimulator/NotificationIT.build/Objects-normal/x86_64/AppRouter.swiftdeps",
+    "swiftmodule" : "/Users/hongje/Downloads/ios-main/NotificationIT-Swift/build/Build/Intermediates.noindex/NotificationIT.build/Debug-iphonesimulator/NotificationIT.build/Objects-normal/x86_64/AppRouter~partial.swiftmodule"
+  },
+  "/Users/hongje/Downloads/ios-main/NotificationIT-Swift/NotificationIT/BookmarkManager.swift" : {
+    "const-values" : "/Users/hongje/Downloads/ios-main/NotificationIT-Swift/build/Build/Intermediates.noindex/NotificationIT.build/Debug-iphonesimulator/NotificationIT.build/Objects-normal/x86_64/BookmarkManager.swiftconstvalues",
+    "dependencies" : "/Users/hongje/Downloads/ios-main/NotificationIT-Swift/build/Build/Intermediates.noindex/NotificationIT.build/Debug-iphonesimulator/NotificationIT.build/Objects-normal/x86_64/BookmarkManager.d",
+    "diagnostics" : "/Users/hongje/Downloads/ios-main/NotificationIT-Swift/build/Build/Intermediates.noindex/NotificationIT.build/Debug-iphonesimulator/NotificationIT.build/Objects-normal/x86_64/BookmarkManager.dia",
+    "index-unit-output-path" : "/NotificationIT.build/Debug-iphonesimulator/NotificationIT.build/Objects-normal/x86_64/BookmarkManager.o",
+    "llvm-bc" : "/Users/hongje/Downloads/ios-main/NotificationIT-Swift/build/Build/Intermediates.noindex/NotificationIT.build/Debug-iphonesimulator/NotificationIT.build/Objects-normal/x86_64/BookmarkManager.bc",
+    "object" : "/Users/hongje/Downloads/ios-main/NotificationIT-Swift/build/Build/Intermediates.noindex/NotificationIT.build/Debug-iphonesimulator/NotificationIT.build/Objects-normal/x86_64/BookmarkManager.o",
+    "swift-dependencies" : "/Users/hongje/Downloads/ios-main/NotificationIT-Swift/build/Build/Intermediates.noindex/NotificationIT.build/Debug-iphonesimulator/NotificationIT.build/Objects-normal/x86_64/BookmarkManager.swiftdeps",
+    "swiftmodule" : "/Users/hongje/Downloads/ios-main/NotificationIT-Swift/build/Build/Intermediates.noindex/NotificationIT.build/Debug-iphonesimulator/NotificationIT.build/Objects-normal/x86_64/BookmarkManager~partial.swiftmodule"
+  },
+  "/Users/hongje/Downloads/ios-main/NotificationIT-Swift/NotificationIT/ConsentManager.swift" : {
+    "const-values" : "/Users/hongje/Downloads/ios-main/NotificationIT-Swift/build/Build/Intermediates.noindex/NotificationIT.build/Debug-iphonesimulator/NotificationIT.build/Objects-normal/x86_64/ConsentManager.swiftconstvalues",
+    "dependencies" : "/Users/hongje/Downloads/ios-main/NotificationIT-Swift/build/Build/Intermediates.noindex/NotificationIT.build/Debug-iphonesimulator/NotificationIT.build/Objects-normal/x86_64/ConsentManager.d",
+    "diagnostics" : "/Users/hongje/Downloads/ios-main/NotificationIT-Swift/build/Build/Intermediates.noindex/NotificationIT.build/Debug-iphonesimulator/NotificationIT.build/Objects-normal/x86_64/ConsentManager.dia",
+    "index-unit-output-path" : "/NotificationIT.build/Debug-iphonesimulator/NotificationIT.build/Objects-normal/x86_64/ConsentManager.o",
+    "llvm-bc" : "/Users/hongje/Downloads/ios-main/NotificationIT-Swift/build/Build/Intermediates.noindex/NotificationIT.build/Debug-iphonesimulator/NotificationIT.build/Objects-normal/x86_64/ConsentManager.bc",
+    "object" : "/Users/hongje/Downloads/ios-main/NotificationIT-Swift/build/Build/Intermediates.noindex/NotificationIT.build/Debug-iphonesimulator/NotificationIT.build/Objects-normal/x86_64/ConsentManager.o",
+    "swift-dependencies" : "/Users/hongje/Downloads/ios-main/NotificationIT-Swift/build/Build/Intermediates.noindex/NotificationIT.build/Debug-iphonesimulator/NotificationIT.build/Objects-normal/x86_64/ConsentManager.swiftdeps",
+    "swiftmodule" : "/Users/hongje/Downloads/ios-main/NotificationIT-Swift/build/Build/Intermediates.noindex/NotificationIT.build/Debug-iphonesimulator/NotificationIT.build/Objects-normal/x86_64/ConsentManager~partial.swiftmodule"
+  },
+  "/Users/hongje/Downloads/ios-main/NotificationIT-Swift/NotificationIT/FcmMessaging.swift" : {
+    "const-values" : "/Users/hongje/Downloads/ios-main/NotificationIT-Swift/build/Build/Intermediates.noindex/NotificationIT.build/Debug-iphonesimulator/NotificationIT.build/Objects-normal/x86_64/FcmMessaging.swiftconstvalues",
+    "dependencies" : "/Users/hongje/Downloads/ios-main/NotificationIT-Swift/build/Build/Intermediates.noindex/NotificationIT.build/Debug-iphonesimulator/NotificationIT.build/Objects-normal/x86_64/FcmMessaging.d",
+    "diagnostics" : "/Users/hongje/Downloads/ios-main/NotificationIT-Swift/build/Build/Intermediates.noindex/NotificationIT.build/Debug-iphonesimulator/NotificationIT.build/Objects-normal/x86_64/FcmMessaging.dia",
+    "index-unit-output-path" : "/NotificationIT.build/Debug-iphonesimulator/NotificationIT.build/Objects-normal/x86_64/FcmMessaging.o",
+    "llvm-bc" : "/Users/hongje/Downloads/ios-main/NotificationIT-Swift/build/Build/Intermediates.noindex/NotificationIT.build/Debug-iphonesimulator/NotificationIT.build/Objects-normal/x86_64/FcmMessaging.bc",
+    "object" : "/Users/hongje/Downloads/ios-main/NotificationIT-Swift/build/Build/Intermediates.noindex/NotificationIT.build/Debug-iphonesimulator/NotificationIT.build/Objects-normal/x86_64/FcmMessaging.o",
+    "swift-dependencies" : "/Users/hongje/Downloads/ios-main/NotificationIT-Swift/build/Build/Intermediates.noindex/NotificationIT.build/Debug-iphonesimulator/NotificationIT.build/Objects-normal/x86_64/FcmMessaging.swiftdeps",
+    "swiftmodule" : "/Users/hongje/Downloads/ios-main/NotificationIT-Swift/build/Build/Intermediates.noindex/NotificationIT.build/Debug-iphonesimulator/NotificationIT.build/Objects-normal/x86_64/FcmMessaging~partial.swiftmodule"
+  },
+  "/Users/hongje/Downloads/ios-main/NotificationIT-Swift/NotificationIT/FirebaseOptions.swift" : {
+    "const-values" : "/Users/hongje/Downloads/ios-main/NotificationIT-Swift/build/Build/Intermediates.noindex/NotificationIT.build/Debug-iphonesimulator/NotificationIT.build/Objects-normal/x86_64/FirebaseOptions.swiftconstvalues",
+    "dependencies" : "/Users/hongje/Downloads/ios-main/NotificationIT-Swift/build/Build/Intermediates.noindex/NotificationIT.build/Debug-iphonesimulator/NotificationIT.build/Objects-normal/x86_64/FirebaseOptions.d",
+    "diagnostics" : "/Users/hongje/Downloads/ios-main/NotificationIT-Swift/build/Build/Intermediates.noindex/NotificationIT.build/Debug-iphonesimulator/NotificationIT.build/Objects-normal/x86_64/FirebaseOptions.dia",
+    "index-unit-output-path" : "/NotificationIT.build/Debug-iphonesimulator/NotificationIT.build/Objects-normal/x86_64/FirebaseOptions.o",
+    "llvm-bc" : "/Users/hongje/Downloads/ios-main/NotificationIT-Swift/build/Build/Intermediates.noindex/NotificationIT.build/Debug-iphonesimulator/NotificationIT.build/Objects-normal/x86_64/FirebaseOptions.bc",
+    "object" : "/Users/hongje/Downloads/ios-main/NotificationIT-Swift/build/Build/Intermediates.noindex/NotificationIT.build/Debug-iphonesimulator/NotificationIT.build/Objects-normal/x86_64/FirebaseOptions.o",
+    "swift-dependencies" : "/Users/hongje/Downloads/ios-main/NotificationIT-Swift/build/Build/Intermediates.noindex/NotificationIT.build/Debug-iphonesimulator/NotificationIT.build/Objects-normal/x86_64/FirebaseOptions.swiftdeps",
+    "swiftmodule" : "/Users/hongje/Downloads/ios-main/NotificationIT-Swift/build/Build/Intermediates.noindex/NotificationIT.build/Debug-iphonesimulator/NotificationIT.build/Objects-normal/x86_64/FirebaseOptions~partial.swiftmodule"
+  },
+  "/Users/hongje/Downloads/ios-main/NotificationIT-Swift/NotificationIT/GET_notice.swift" : {
+    "const-values" : "/Users/hongje/Downloads/ios-main/NotificationIT-Swift/build/Build/Intermediates.noindex/NotificationIT.build/Debug-iphonesimulator/NotificationIT.build/Objects-normal/x86_64/GET_notice.swiftconstvalues",
+    "dependencies" : "/Users/hongje/Downloads/ios-main/NotificationIT-Swift/build/Build/Intermediates.noindex/NotificationIT.build/Debug-iphonesimulator/NotificationIT.build/Objects-normal/x86_64/GET_notice.d",
+    "diagnostics" : "/Users/hongje/Downloads/ios-main/NotificationIT-Swift/build/Build/Intermediates.noindex/NotificationIT.build/Debug-iphonesimulator/NotificationIT.build/Objects-normal/x86_64/GET_notice.dia",
+    "index-unit-output-path" : "/NotificationIT.build/Debug-iphonesimulator/NotificationIT.build/Objects-normal/x86_64/GET_notice.o",
+    "llvm-bc" : "/Users/hongje/Downloads/ios-main/NotificationIT-Swift/build/Build/Intermediates.noindex/NotificationIT.build/Debug-iphonesimulator/NotificationIT.build/Objects-normal/x86_64/GET_notice.bc",
+    "object" : "/Users/hongje/Downloads/ios-main/NotificationIT-Swift/build/Build/Intermediates.noindex/NotificationIT.build/Debug-iphonesimulator/NotificationIT.build/Objects-normal/x86_64/GET_notice.o",
+    "swift-dependencies" : "/Users/hongje/Downloads/ios-main/NotificationIT-Swift/build/Build/Intermediates.noindex/NotificationIT.build/Debug-iphonesimulator/NotificationIT.build/Objects-normal/x86_64/GET_notice.swiftdeps",
+    "swiftmodule" : "/Users/hongje/Downloads/ios-main/NotificationIT-Swift/build/Build/Intermediates.noindex/NotificationIT.build/Debug-iphonesimulator/NotificationIT.build/Objects-normal/x86_64/GET_notice~partial.swiftmodule"
+  },
+  "/Users/hongje/Downloads/ios-main/NotificationIT-Swift/NotificationIT/Helpers.swift" : {
+    "const-values" : "/Users/hongje/Downloads/ios-main/NotificationIT-Swift/build/Build/Intermediates.noindex/NotificationIT.build/Debug-iphonesimulator/NotificationIT.build/Objects-normal/x86_64/Helpers.swiftconstvalues",
+    "dependencies" : "/Users/hongje/Downloads/ios-main/NotificationIT-Swift/build/Build/Intermediates.noindex/NotificationIT.build/Debug-iphonesimulator/NotificationIT.build/Objects-normal/x86_64/Helpers.d",
+    "diagnostics" : "/Users/hongje/Downloads/ios-main/NotificationIT-Swift/build/Build/Intermediates.noindex/NotificationIT.build/Debug-iphonesimulator/NotificationIT.build/Objects-normal/x86_64/Helpers.dia",
+    "index-unit-output-path" : "/NotificationIT.build/Debug-iphonesimulator/NotificationIT.build/Objects-normal/x86_64/Helpers.o",
+    "llvm-bc" : "/Users/hongje/Downloads/ios-main/NotificationIT-Swift/build/Build/Intermediates.noindex/NotificationIT.build/Debug-iphonesimulator/NotificationIT.build/Objects-normal/x86_64/Helpers.bc",
+    "object" : "/Users/hongje/Downloads/ios-main/NotificationIT-Swift/build/Build/Intermediates.noindex/NotificationIT.build/Debug-iphonesimulator/NotificationIT.build/Objects-normal/x86_64/Helpers.o",
+    "swift-dependencies" : "/Users/hongje/Downloads/ios-main/NotificationIT-Swift/build/Build/Intermediates.noindex/NotificationIT.build/Debug-iphonesimulator/NotificationIT.build/Objects-normal/x86_64/Helpers.swiftdeps",
+    "swiftmodule" : "/Users/hongje/Downloads/ios-main/NotificationIT-Swift/build/Build/Intermediates.noindex/NotificationIT.build/Debug-iphonesimulator/NotificationIT.build/Objects-normal/x86_64/Helpers~partial.swiftmodule"
+  },
+  "/Users/hongje/Downloads/ios-main/NotificationIT-Swift/NotificationIT/IntroPage.swift" : {
+    "const-values" : "/Users/hongje/Downloads/ios-main/NotificationIT-Swift/build/Build/Intermediates.noindex/NotificationIT.build/Debug-iphonesimulator/NotificationIT.build/Objects-normal/x86_64/IntroPage.swiftconstvalues",
+    "dependencies" : "/Users/hongje/Downloads/ios-main/NotificationIT-Swift/build/Build/Intermediates.noindex/NotificationIT.build/Debug-iphonesimulator/NotificationIT.build/Objects-normal/x86_64/IntroPage.d",
+    "diagnostics" : "/Users/hongje/Downloads/ios-main/NotificationIT-Swift/build/Build/Intermediates.noindex/NotificationIT.build/Debug-iphonesimulator/NotificationIT.build/Objects-normal/x86_64/IntroPage.dia",
+    "index-unit-output-path" : "/NotificationIT.build/Debug-iphonesimulator/NotificationIT.build/Objects-normal/x86_64/IntroPage.o",
+    "llvm-bc" : "/Users/hongje/Downloads/ios-main/NotificationIT-Swift/build/Build/Intermediates.noindex/NotificationIT.build/Debug-iphonesimulator/NotificationIT.build/Objects-normal/x86_64/IntroPage.bc",
+    "object" : "/Users/hongje/Downloads/ios-main/NotificationIT-Swift/build/Build/Intermediates.noindex/NotificationIT.build/Debug-iphonesimulator/NotificationIT.build/Objects-normal/x86_64/IntroPage.o",
+    "swift-dependencies" : "/Users/hongje/Downloads/ios-main/NotificationIT-Swift/build/Build/Intermediates.noindex/NotificationIT.build/Debug-iphonesimulator/NotificationIT.build/Objects-normal/x86_64/IntroPage.swiftdeps",
+    "swiftmodule" : "/Users/hongje/Downloads/ios-main/NotificationIT-Swift/build/Build/Intermediates.noindex/NotificationIT.build/Debug-iphonesimulator/NotificationIT.build/Objects-normal/x86_64/IntroPage~partial.swiftmodule"
+  },
+  "/Users/hongje/Downloads/ios-main/NotificationIT-Swift/NotificationIT/Keys.swift" : {
+    "const-values" : "/Users/hongje/Downloads/ios-main/NotificationIT-Swift/build/Build/Intermediates.noindex/NotificationIT.build/Debug-iphonesimulator/NotificationIT.build/Objects-normal/x86_64/Keys.swiftconstvalues",
+    "dependencies" : "/Users/hongje/Downloads/ios-main/NotificationIT-Swift/build/Build/Intermediates.noindex/NotificationIT.build/Debug-iphonesimulator/NotificationIT.build/Objects-normal/x86_64/Keys.d",
+    "diagnostics" : "/Users/hongje/Downloads/ios-main/NotificationIT-Swift/build/Build/Intermediates.noindex/NotificationIT.build/Debug-iphonesimulator/NotificationIT.build/Objects-normal/x86_64/Keys.dia",
+    "index-unit-output-path" : "/NotificationIT.build/Debug-iphonesimulator/NotificationIT.build/Objects-normal/x86_64/Keys.o",
+    "llvm-bc" : "/Users/hongje/Downloads/ios-main/NotificationIT-Swift/build/Build/Intermediates.noindex/NotificationIT.build/Debug-iphonesimulator/NotificationIT.build/Objects-normal/x86_64/Keys.bc",
+    "object" : "/Users/hongje/Downloads/ios-main/NotificationIT-Swift/build/Build/Intermediates.noindex/NotificationIT.build/Debug-iphonesimulator/NotificationIT.build/Objects-normal/x86_64/Keys.o",
+    "swift-dependencies" : "/Users/hongje/Downloads/ios-main/NotificationIT-Swift/build/Build/Intermediates.noindex/NotificationIT.build/Debug-iphonesimulator/NotificationIT.build/Objects-normal/x86_64/Keys.swiftdeps",
+    "swiftmodule" : "/Users/hongje/Downloads/ios-main/NotificationIT-Swift/build/Build/Intermediates.noindex/NotificationIT.build/Debug-iphonesimulator/NotificationIT.build/Objects-normal/x86_64/Keys~partial.swiftmodule"
+  },
+  "/Users/hongje/Downloads/ios-main/NotificationIT-Swift/NotificationIT/NotificationITApp.swift" : {
+    "const-values" : "/Users/hongje/Downloads/ios-main/NotificationIT-Swift/build/Build/Intermediates.noindex/NotificationIT.build/Debug-iphonesimulator/NotificationIT.build/Objects-normal/x86_64/NotificationITApp.swiftconstvalues",
+    "dependencies" : "/Users/hongje/Downloads/ios-main/NotificationIT-Swift/build/Build/Intermediates.noindex/NotificationIT.build/Debug-iphonesimulator/NotificationIT.build/Objects-normal/x86_64/NotificationITApp.d",
+    "diagnostics" : "/Users/hongje/Downloads/ios-main/NotificationIT-Swift/build/Build/Intermediates.noindex/NotificationIT.build/Debug-iphonesimulator/NotificationIT.build/Objects-normal/x86_64/NotificationITApp.dia",
+    "index-unit-output-path" : "/NotificationIT.build/Debug-iphonesimulator/NotificationIT.build/Objects-normal/x86_64/NotificationITApp.o",
+    "llvm-bc" : "/Users/hongje/Downloads/ios-main/NotificationIT-Swift/build/Build/Intermediates.noindex/NotificationIT.build/Debug-iphonesimulator/NotificationIT.build/Objects-normal/x86_64/NotificationITApp.bc",
+    "object" : "/Users/hongje/Downloads/ios-main/NotificationIT-Swift/build/Build/Intermediates.noindex/NotificationIT.build/Debug-iphonesimulator/NotificationIT.build/Objects-normal/x86_64/NotificationITApp.o",
+    "swift-dependencies" : "/Users/hongje/Downloads/ios-main/NotificationIT-Swift/build/Build/Intermediates.noindex/NotificationIT.build/Debug-iphonesimulator/NotificationIT.build/Objects-normal/x86_64/NotificationITApp.swiftdeps",
+    "swiftmodule" : "/Users/hongje/Downloads/ios-main/NotificationIT-Swift/build/Build/Intermediates.noindex/NotificationIT.build/Debug-iphonesimulator/NotificationIT.build/Objects-normal/x86_64/NotificationITApp~partial.swiftmodule"
+  },
+  "/Users/hongje/Downloads/ios-main/NotificationIT-Swift/NotificationIT/NotificationService.swift" : {
+    "const-values" : "/Users/hongje/Downloads/ios-main/NotificationIT-Swift/build/Build/Intermediates.noindex/NotificationIT.build/Debug-iphonesimulator/NotificationIT.build/Objects-normal/x86_64/NotificationService.swiftconstvalues",
+    "dependencies" : "/Users/hongje/Downloads/ios-main/NotificationIT-Swift/build/Build/Intermediates.noindex/NotificationIT.build/Debug-iphonesimulator/NotificationIT.build/Objects-normal/x86_64/NotificationService.d",
+    "diagnostics" : "/Users/hongje/Downloads/ios-main/NotificationIT-Swift/build/Build/Intermediates.noindex/NotificationIT.build/Debug-iphonesimulator/NotificationIT.build/Objects-normal/x86_64/NotificationService.dia",
+    "index-unit-output-path" : "/NotificationIT.build/Debug-iphonesimulator/NotificationIT.build/Objects-normal/x86_64/NotificationService.o",
+    "llvm-bc" : "/Users/hongje/Downloads/ios-main/NotificationIT-Swift/build/Build/Intermediates.noindex/NotificationIT.build/Debug-iphonesimulator/NotificationIT.build/Objects-normal/x86_64/NotificationService.bc",
+    "object" : "/Users/hongje/Downloads/ios-main/NotificationIT-Swift/build/Build/Intermediates.noindex/NotificationIT.build/Debug-iphonesimulator/NotificationIT.build/Objects-normal/x86_64/NotificationService.o",
+    "swift-dependencies" : "/Users/hongje/Downloads/ios-main/NotificationIT-Swift/build/Build/Intermediates.noindex/NotificationIT.build/Debug-iphonesimulator/NotificationIT.build/Objects-normal/x86_64/NotificationService.swiftdeps",
+    "swiftmodule" : "/Users/hongje/Downloads/ios-main/NotificationIT-Swift/build/Build/Intermediates.noindex/NotificationIT.build/Debug-iphonesimulator/NotificationIT.build/Objects-normal/x86_64/NotificationService~partial.swiftmodule"
+  },
+  "/Users/hongje/Downloads/ios-main/NotificationIT-Swift/NotificationIT/SplashScreen.swift" : {
+    "const-values" : "/Users/hongje/Downloads/ios-main/NotificationIT-Swift/build/Build/Intermediates.noindex/NotificationIT.build/Debug-iphonesimulator/NotificationIT.build/Objects-normal/x86_64/SplashScreen.swiftconstvalues",
+    "dependencies" : "/Users/hongje/Downloads/ios-main/NotificationIT-Swift/build/Build/Intermediates.noindex/NotificationIT.build/Debug-iphonesimulator/NotificationIT.build/Objects-normal/x86_64/SplashScreen.d",
+    "diagnostics" : "/Users/hongje/Downloads/ios-main/NotificationIT-Swift/build/Build/Intermediates.noindex/NotificationIT.build/Debug-iphonesimulator/NotificationIT.build/Objects-normal/x86_64/SplashScreen.dia",
+    "index-unit-output-path" : "/NotificationIT.build/Debug-iphonesimulator/NotificationIT.build/Objects-normal/x86_64/SplashScreen.o",
+    "llvm-bc" : "/Users/hongje/Downloads/ios-main/NotificationIT-Swift/build/Build/Intermediates.noindex/NotificationIT.build/Debug-iphonesimulator/NotificationIT.build/Objects-normal/x86_64/SplashScreen.bc",
+    "object" : "/Users/hongje/Downloads/ios-main/NotificationIT-Swift/build/Build/Intermediates.noindex/NotificationIT.build/Debug-iphonesimulator/NotificationIT.build/Objects-normal/x86_64/SplashScreen.o",
+    "swift-dependencies" : "/Users/hongje/Downloads/ios-main/NotificationIT-Swift/build/Build/Intermediates.noindex/NotificationIT.build/Debug-iphonesimulator/NotificationIT.build/Objects-normal/x86_64/SplashScreen.swiftdeps",
+    "swiftmodule" : "/Users/hongje/Downloads/ios-main/NotificationIT-Swift/build/Build/Intermediates.noindex/NotificationIT.build/Debug-iphonesimulator/NotificationIT.build/Objects-normal/x86_64/SplashScreen~partial.swiftmodule"
+  },
+  "/Users/hongje/Downloads/ios-main/NotificationIT-Swift/NotificationIT/alram.swift" : {
+    "const-values" : "/Users/hongje/Downloads/ios-main/NotificationIT-Swift/build/Build/Intermediates.noindex/NotificationIT.build/Debug-iphonesimulator/NotificationIT.build/Objects-normal/x86_64/alram.swiftconstvalues",
+    "dependencies" : "/Users/hongje/Downloads/ios-main/NotificationIT-Swift/build/Build/Intermediates.noindex/NotificationIT.build/Debug-iphonesimulator/NotificationIT.build/Objects-normal/x86_64/alram.d",
+    "diagnostics" : "/Users/hongje/Downloads/ios-main/NotificationIT-Swift/build/Build/Intermediates.noindex/NotificationIT.build/Debug-iphonesimulator/NotificationIT.build/Objects-normal/x86_64/alram.dia",
+    "index-unit-output-path" : "/NotificationIT.build/Debug-iphonesimulator/NotificationIT.build/Objects-normal/x86_64/alram.o",
+    "llvm-bc" : "/Users/hongje/Downloads/ios-main/NotificationIT-Swift/build/Build/Intermediates.noindex/NotificationIT.build/Debug-iphonesimulator/NotificationIT.build/Objects-normal/x86_64/alram.bc",
+    "object" : "/Users/hongje/Downloads/ios-main/NotificationIT-Swift/build/Build/Intermediates.noindex/NotificationIT.build/Debug-iphonesimulator/NotificationIT.build/Objects-normal/x86_64/alram.o",
+    "swift-dependencies" : "/Users/hongje/Downloads/ios-main/NotificationIT-Swift/build/Build/Intermediates.noindex/NotificationIT.build/Debug-iphonesimulator/NotificationIT.build/Objects-normal/x86_64/alram.swiftdeps",
+    "swiftmodule" : "/Users/hongje/Downloads/ios-main/NotificationIT-Swift/build/Build/Intermediates.noindex/NotificationIT.build/Debug-iphonesimulator/NotificationIT.build/Objects-normal/x86_64/alram~partial.swiftmodule"
+  },
+  "/Users/hongje/Downloads/ios-main/NotificationIT-Swift/NotificationIT/init_selecet_page.swift" : {
+    "const-values" : "/Users/hongje/Downloads/ios-main/NotificationIT-Swift/build/Build/Intermediates.noindex/NotificationIT.build/Debug-iphonesimulator/NotificationIT.build/Objects-normal/x86_64/init_selecet_page.swiftconstvalues",
+    "dependencies" : "/Users/hongje/Downloads/ios-main/NotificationIT-Swift/build/Build/Intermediates.noindex/NotificationIT.build/Debug-iphonesimulator/NotificationIT.build/Objects-normal/x86_64/init_selecet_page.d",
+    "diagnostics" : "/Users/hongje/Downloads/ios-main/NotificationIT-Swift/build/Build/Intermediates.noindex/NotificationIT.build/Debug-iphonesimulator/NotificationIT.build/Objects-normal/x86_64/init_selecet_page.dia",
+    "index-unit-output-path" : "/NotificationIT.build/Debug-iphonesimulator/NotificationIT.build/Objects-normal/x86_64/init_selecet_page.o",
+    "llvm-bc" : "/Users/hongje/Downloads/ios-main/NotificationIT-Swift/build/Build/Intermediates.noindex/NotificationIT.build/Debug-iphonesimulator/NotificationIT.build/Objects-normal/x86_64/init_selecet_page.bc",
+    "object" : "/Users/hongje/Downloads/ios-main/NotificationIT-Swift/build/Build/Intermediates.noindex/NotificationIT.build/Debug-iphonesimulator/NotificationIT.build/Objects-normal/x86_64/init_selecet_page.o",
+    "swift-dependencies" : "/Users/hongje/Downloads/ios-main/NotificationIT-Swift/build/Build/Intermediates.noindex/NotificationIT.build/Debug-iphonesimulator/NotificationIT.build/Objects-normal/x86_64/init_selecet_page.swiftdeps",
+    "swiftmodule" : "/Users/hongje/Downloads/ios-main/NotificationIT-Swift/build/Build/Intermediates.noindex/NotificationIT.build/Debug-iphonesimulator/NotificationIT.build/Objects-normal/x86_64/init_selecet_page~partial.swiftmodule"
+  },
+  "/Users/hongje/Downloads/ios-main/NotificationIT-Swift/NotificationIT/keyword.swift" : {
+    "const-values" : "/Users/hongje/Downloads/ios-main/NotificationIT-Swift/build/Build/Intermediates.noindex/NotificationIT.build/Debug-iphonesimulator/NotificationIT.build/Objects-normal/x86_64/keyword.swiftconstvalues",
+    "dependencies" : "/Users/hongje/Downloads/ios-main/NotificationIT-Swift/build/Build/Intermediates.noindex/NotificationIT.build/Debug-iphonesimulator/NotificationIT.build/Objects-normal/x86_64/keyword.d",
+    "diagnostics" : "/Users/hongje/Downloads/ios-main/NotificationIT-Swift/build/Build/Intermediates.noindex/NotificationIT.build/Debug-iphonesimulator/NotificationIT.build/Objects-normal/x86_64/keyword.dia",
+    "index-unit-output-path" : "/NotificationIT.build/Debug-iphonesimulator/NotificationIT.build/Objects-normal/x86_64/keyword.o",
+    "llvm-bc" : "/Users/hongje/Downloads/ios-main/NotificationIT-Swift/build/Build/Intermediates.noindex/NotificationIT.build/Debug-iphonesimulator/NotificationIT.build/Objects-normal/x86_64/keyword.bc",
+    "object" : "/Users/hongje/Downloads/ios-main/NotificationIT-Swift/build/Build/Intermediates.noindex/NotificationIT.build/Debug-iphonesimulator/NotificationIT.build/Objects-normal/x86_64/keyword.o",
+    "swift-dependencies" : "/Users/hongje/Downloads/ios-main/NotificationIT-Swift/build/Build/Intermediates.noindex/NotificationIT.build/Debug-iphonesimulator/NotificationIT.build/Objects-normal/x86_64/keyword.swiftdeps",
+    "swiftmodule" : "/Users/hongje/Downloads/ios-main/NotificationIT-Swift/build/Build/Intermediates.noindex/NotificationIT.build/Debug-iphonesimulator/NotificationIT.build/Objects-normal/x86_64/keyword~partial.swiftmodule"
+  },
+  "/Users/hongje/Downloads/ios-main/NotificationIT-Swift/NotificationIT/list_elements.swift" : {
+    "const-values" : "/Users/hongje/Downloads/ios-main/NotificationIT-Swift/build/Build/Intermediates.noindex/NotificationIT.build/Debug-iphonesimulator/NotificationIT.build/Objects-normal/x86_64/list_elements.swiftconstvalues",
+    "dependencies" : "/Users/hongje/Downloads/ios-main/NotificationIT-Swift/build/Build/Intermediates.noindex/NotificationIT.build/Debug-iphonesimulator/NotificationIT.build/Objects-normal/x86_64/list_elements.d",
+    "diagnostics" : "/Users/hongje/Downloads/ios-main/NotificationIT-Swift/build/Build/Intermediates.noindex/NotificationIT.build/Debug-iphonesimulator/NotificationIT.build/Objects-normal/x86_64/list_elements.dia",
+    "index-unit-output-path" : "/NotificationIT.build/Debug-iphonesimulator/NotificationIT.build/Objects-normal/x86_64/list_elements.o",
+    "llvm-bc" : "/Users/hongje/Downloads/ios-main/NotificationIT-Swift/build/Build/Intermediates.noindex/NotificationIT.build/Debug-iphonesimulator/NotificationIT.build/Objects-normal/x86_64/list_elements.bc",
+    "object" : "/Users/hongje/Downloads/ios-main/NotificationIT-Swift/build/Build/Intermediates.noindex/NotificationIT.build/Debug-iphonesimulator/NotificationIT.build/Objects-normal/x86_64/list_elements.o",
+    "swift-dependencies" : "/Users/hongje/Downloads/ios-main/NotificationIT-Swift/build/Build/Intermediates.noindex/NotificationIT.build/Debug-iphonesimulator/NotificationIT.build/Objects-normal/x86_64/list_elements.swiftdeps",
+    "swiftmodule" : "/Users/hongje/Downloads/ios-main/NotificationIT-Swift/build/Build/Intermediates.noindex/NotificationIT.build/Debug-iphonesimulator/NotificationIT.build/Objects-normal/x86_64/list_elements~partial.swiftmodule"
+  },
+  "/Users/hongje/Downloads/ios-main/NotificationIT-Swift/NotificationIT/mainPage.swift" : {
+    "const-values" : "/Users/hongje/Downloads/ios-main/NotificationIT-Swift/build/Build/Intermediates.noindex/NotificationIT.build/Debug-iphonesimulator/NotificationIT.build/Objects-normal/x86_64/mainPage.swiftconstvalues",
+    "dependencies" : "/Users/hongje/Downloads/ios-main/NotificationIT-Swift/build/Build/Intermediates.noindex/NotificationIT.build/Debug-iphonesimulator/NotificationIT.build/Objects-normal/x86_64/mainPage.d",
+    "diagnostics" : "/Users/hongje/Downloads/ios-main/NotificationIT-Swift/build/Build/Intermediates.noindex/NotificationIT.build/Debug-iphonesimulator/NotificationIT.build/Objects-normal/x86_64/mainPage.dia",
+    "index-unit-output-path" : "/NotificationIT.build/Debug-iphonesimulator/NotificationIT.build/Objects-normal/x86_64/mainPage.o",
+    "llvm-bc" : "/Users/hongje/Downloads/ios-main/NotificationIT-Swift/build/Build/Intermediates.noindex/NotificationIT.build/Debug-iphonesimulator/NotificationIT.build/Objects-normal/x86_64/mainPage.bc",
+    "object" : "/Users/hongje/Downloads/ios-main/NotificationIT-Swift/build/Build/Intermediates.noindex/NotificationIT.build/Debug-iphonesimulator/NotificationIT.build/Objects-normal/x86_64/mainPage.o",
+    "swift-dependencies" : "/Users/hongje/Downloads/ios-main/NotificationIT-Swift/build/Build/Intermediates.noindex/NotificationIT.build/Debug-iphonesimulator/NotificationIT.build/Objects-normal/x86_64/mainPage.swiftdeps",
+    "swiftmodule" : "/Users/hongje/Downloads/ios-main/NotificationIT-Swift/build/Build/Intermediates.noindex/NotificationIT.build/Debug-iphonesimulator/NotificationIT.build/Objects-normal/x86_64/mainPage~partial.swiftmodule"
+  },
+  "/Users/hongje/Downloads/ios-main/NotificationIT-Swift/NotificationIT/majorCategory.swift" : {
+    "const-values" : "/Users/hongje/Downloads/ios-main/NotificationIT-Swift/build/Build/Intermediates.noindex/NotificationIT.build/Debug-iphonesimulator/NotificationIT.build/Objects-normal/x86_64/majorCategory.swiftconstvalues",
+    "dependencies" : "/Users/hongje/Downloads/ios-main/NotificationIT-Swift/build/Build/Intermediates.noindex/NotificationIT.build/Debug-iphonesimulator/NotificationIT.build/Objects-normal/x86_64/majorCategory.d",
+    "diagnostics" : "/Users/hongje/Downloads/ios-main/NotificationIT-Swift/build/Build/Intermediates.noindex/NotificationIT.build/Debug-iphonesimulator/NotificationIT.build/Objects-normal/x86_64/majorCategory.dia",
+    "index-unit-output-path" : "/NotificationIT.build/Debug-iphonesimulator/NotificationIT.build/Objects-normal/x86_64/majorCategory.o",
+    "llvm-bc" : "/Users/hongje/Downloads/ios-main/NotificationIT-Swift/build/Build/Intermediates.noindex/NotificationIT.build/Debug-iphonesimulator/NotificationIT.build/Objects-normal/x86_64/majorCategory.bc",
+    "object" : "/Users/hongje/Downloads/ios-main/NotificationIT-Swift/build/Build/Intermediates.noindex/NotificationIT.build/Debug-iphonesimulator/NotificationIT.build/Objects-normal/x86_64/majorCategory.o",
+    "swift-dependencies" : "/Users/hongje/Downloads/ios-main/NotificationIT-Swift/build/Build/Intermediates.noindex/NotificationIT.build/Debug-iphonesimulator/NotificationIT.build/Objects-normal/x86_64/majorCategory.swiftdeps",
+    "swiftmodule" : "/Users/hongje/Downloads/ios-main/NotificationIT-Swift/build/Build/Intermediates.noindex/NotificationIT.build/Debug-iphonesimulator/NotificationIT.build/Objects-normal/x86_64/majorCategory~partial.swiftmodule"
+  },
+  "/Users/hongje/Downloads/ios-main/NotificationIT-Swift/NotificationIT/webView.swift" : {
+    "const-values" : "/Users/hongje/Downloads/ios-main/NotificationIT-Swift/build/Build/Intermediates.noindex/NotificationIT.build/Debug-iphonesimulator/NotificationIT.build/Objects-normal/x86_64/webView.swiftconstvalues",
+    "dependencies" : "/Users/hongje/Downloads/ios-main/NotificationIT-Swift/build/Build/Intermediates.noindex/NotificationIT.build/Debug-iphonesimulator/NotificationIT.build/Objects-normal/x86_64/webView.d",
+    "diagnostics" : "/Users/hongje/Downloads/ios-main/NotificationIT-Swift/build/Build/Intermediates.noindex/NotificationIT.build/Debug-iphonesimulator/NotificationIT.build/Objects-normal/x86_64/webView.dia",
+    "index-unit-output-path" : "/NotificationIT.build/Debug-iphonesimulator/NotificationIT.build/Objects-normal/x86_64/webView.o",
+    "llvm-bc" : "/Users/hongje/Downloads/ios-main/NotificationIT-Swift/build/Build/Intermediates.noindex/NotificationIT.build/Debug-iphonesimulator/NotificationIT.build/Objects-normal/x86_64/webView.bc",
+    "object" : "/Users/hongje/Downloads/ios-main/NotificationIT-Swift/build/Build/Intermediates.noindex/NotificationIT.build/Debug-iphonesimulator/NotificationIT.build/Objects-normal/x86_64/webView.o",
+    "swift-dependencies" : "/Users/hongje/Downloads/ios-main/NotificationIT-Swift/build/Build/Intermediates.noindex/NotificationIT.build/Debug-iphonesimulator/NotificationIT.build/Objects-normal/x86_64/webView.swiftdeps",
+    "swiftmodule" : "/Users/hongje/Downloads/ios-main/NotificationIT-Swift/build/Build/Intermediates.noindex/NotificationIT.build/Debug-iphonesimulator/NotificationIT.build/Objects-normal/x86_64/webView~partial.swiftmodule"
+  },
+  "/Users/hongje/Downloads/ios-main/NotificationIT-Swift/build/Build/Intermediates.noindex/NotificationIT.build/Debug-iphonesimulator/NotificationIT.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+    "const-values" : "/Users/hongje/Downloads/ios-main/NotificationIT-Swift/build/Build/Intermediates.noindex/NotificationIT.build/Debug-iphonesimulator/NotificationIT.build/Objects-normal/x86_64/GeneratedAssetSymbols.swiftconstvalues",
+    "dependencies" : "/Users/hongje/Downloads/ios-main/NotificationIT-Swift/build/Build/Intermediates.noindex/NotificationIT.build/Debug-iphonesimulator/NotificationIT.build/Objects-normal/x86_64/GeneratedAssetSymbols.d",
+    "diagnostics" : "/Users/hongje/Downloads/ios-main/NotificationIT-Swift/build/Build/Intermediates.noindex/NotificationIT.build/Debug-iphonesimulator/NotificationIT.build/Objects-normal/x86_64/GeneratedAssetSymbols.dia",
+    "index-unit-output-path" : "/NotificationIT.build/Debug-iphonesimulator/NotificationIT.build/Objects-normal/x86_64/GeneratedAssetSymbols.o",
+    "llvm-bc" : "/Users/hongje/Downloads/ios-main/NotificationIT-Swift/build/Build/Intermediates.noindex/NotificationIT.build/Debug-iphonesimulator/NotificationIT.build/Objects-normal/x86_64/GeneratedAssetSymbols.bc",
+    "object" : "/Users/hongje/Downloads/ios-main/NotificationIT-Swift/build/Build/Intermediates.noindex/NotificationIT.build/Debug-iphonesimulator/NotificationIT.build/Objects-normal/x86_64/GeneratedAssetSymbols.o",
+    "swift-dependencies" : "/Users/hongje/Downloads/ios-main/NotificationIT-Swift/build/Build/Intermediates.noindex/NotificationIT.build/Debug-iphonesimulator/NotificationIT.build/Objects-normal/x86_64/GeneratedAssetSymbols.swiftdeps",
+    "swiftmodule" : "/Users/hongje/Downloads/ios-main/NotificationIT-Swift/build/Build/Intermediates.noindex/NotificationIT.build/Debug-iphonesimulator/NotificationIT.build/Objects-normal/x86_64/GeneratedAssetSymbols~partial.swiftmodule"
+  }
+}

@@ -1,0 +1,31 @@
+dependencies: \
+  /Users/hongje/Downloads/ios-main/NotificationIT-Swift/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseInstallations.build/module.modulemap \
+  /Users/hongje/Downloads/ios-main/NotificationIT-Swift/Pods/FirebaseInstallations/FirebaseInstallations/Source/Library/InstallationsIDController/FIRInstallationsIDController.m \
+  /Users/hongje/Downloads/ios-main/NotificationIT-Swift/Pods/FirebaseInstallations/FirebaseInstallations/Source/Library/InstallationsIDController/FIRInstallationsIDController.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator.sdk/System/Library/Frameworks/Foundation.framework/Modules/module.modulemap \
+  /Users/hongje/Downloads/ios-main/NotificationIT-Swift/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/PromisesObjC.build/module.modulemap \
+  /Users/hongje/Downloads/ios-main/NotificationIT-Swift/Pods/PromisesObjC/Sources/FBLPromises/include/FBLPromises.h \
+  /Users/hongje/Downloads/ios-main/NotificationIT-Swift/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/GoogleUtilities.build/module.modulemap \
+  /Users/hongje/Downloads/ios-main/NotificationIT-Swift/Pods/FirebaseInstallations/FirebaseCore/Extension/FirebaseCoreInternal.h \
+  /Users/hongje/Downloads/ios-main/NotificationIT-Swift/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseCore.build/module.modulemap \
+  /Users/hongje/Downloads/ios-main/NotificationIT-Swift/Pods/FirebaseInstallations/FirebaseCore/Extension/FIRAppInternal.h \
+  /Users/hongje/Downloads/ios-main/NotificationIT-Swift/Pods/FirebaseInstallations/FirebaseCore/Extension/FIRComponent.h \
+  /Users/hongje/Downloads/ios-main/NotificationIT-Swift/Pods/FirebaseInstallations/FirebaseCore/Extension/FIRComponentContainer.h \
+  /Users/hongje/Downloads/ios-main/NotificationIT-Swift/Pods/FirebaseInstallations/FirebaseCore/Extension/FIRComponentType.h \
+  /Users/hongje/Downloads/ios-main/NotificationIT-Swift/Pods/FirebaseInstallations/FirebaseCore/Extension/FIRHeartbeatLogger.h \
+  /Users/hongje/Downloads/ios-main/NotificationIT-Swift/Pods/FirebaseInstallations/FirebaseCore/Extension/FIRLibrary.h \
+  /Users/hongje/Downloads/ios-main/NotificationIT-Swift/Pods/FirebaseInstallations/FirebaseCore/Extension/FIRLogger.h \
+  /Users/hongje/Downloads/ios-main/NotificationIT-Swift/Pods/FirebaseInstallations/FirebaseInstallations/Source/Library/Errors/FIRInstallationsErrorUtil.h \
+  /Users/hongje/Downloads/ios-main/NotificationIT-Swift/Pods/FirebaseInstallations/FirebaseInstallations/Source/Library/Public/FirebaseInstallations/FIRInstallationsErrors.h \
+  /Users/hongje/Downloads/ios-main/NotificationIT-Swift/Pods/FirebaseInstallations/FirebaseInstallations/Source/Library/FIRInstallationsItem.h \
+  /Users/hongje/Downloads/ios-main/NotificationIT-Swift/Pods/FirebaseInstallations/FirebaseInstallations/Source/Library/InstallationsIDController/FIRInstallationsStatus.h \
+  /Users/hongje/Downloads/ios-main/NotificationIT-Swift/Pods/FirebaseInstallations/FirebaseInstallations/Source/Library/FIRInstallationsLogger.h \
+  /Users/hongje/Downloads/ios-main/NotificationIT-Swift/Pods/FirebaseInstallations/FirebaseInstallations/Source/Library/IIDMigration/FIRInstallationsIIDStore.h \
+  /Users/hongje/Downloads/ios-main/NotificationIT-Swift/Pods/FirebaseInstallations/FirebaseInstallations/Source/Library/IIDMigration/FIRInstallationsIIDTokenStore.h \
+  /Users/hongje/Downloads/ios-main/NotificationIT-Swift/Pods/FirebaseInstallations/FirebaseInstallations/Source/Library/InstallationsAPI/FIRInstallationsAPIService.h \
+  /Users/hongje/Downloads/ios-main/NotificationIT-Swift/Pods/FirebaseInstallations/FirebaseInstallations/Source/Library/InstallationsIDController/FIRInstallationsBackoffController.h \
+  /Users/hongje/Downloads/ios-main/NotificationIT-Swift/Pods/FirebaseInstallations/FirebaseInstallations/Source/Library/InstallationsIDController/FIRCurrentDateProvider.h \
+  /Users/hongje/Downloads/ios-main/NotificationIT-Swift/Pods/FirebaseInstallations/FirebaseInstallations/Source/Library/InstallationsIDController/FIRInstallationsSingleOperationPromiseCache.h \
+  /Users/hongje/Downloads/ios-main/NotificationIT-Swift/Pods/FirebaseInstallations/FirebaseInstallations/Source/Library/InstallationsStore/FIRInstallationsStore.h \
+  /Users/hongje/Downloads/ios-main/NotificationIT-Swift/Pods/FirebaseInstallations/FirebaseInstallations/Source/Library/Errors/FIRInstallationsHTTPError.h \
+  /Users/hongje/Downloads/ios-main/NotificationIT-Swift/Pods/FirebaseInstallations/FirebaseInstallations/Source/Library/InstallationsStore/FIRInstallationsStoredAuthToken.h
