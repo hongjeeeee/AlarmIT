@@ -19,7 +19,19 @@ enum ConsentManager {
     static func showPrivacyConsentSheet(
         policyUrl: String = "https://leekuejea.github.io/alarmIT/"
     ) async -> Bool? {
-        guard let topVC = Self.topViewController() else { return nil }
+        // 화면 전환 직후에는 표시할 뷰컨트롤러가 아직 window 에 붙지 않아
+        // 시트가 조용히 건너뛰어질 수 있으므로 준비될 때까지 잠시 기다린다.
+        var presenter: UIViewController?
+        for _ in 0..<30 {
+            if let vc = Self.topViewController(),
+               vc.viewIfLoaded?.window != nil,
+               vc.presentedViewController == nil {
+                presenter = vc
+                break
+            }
+            try? await Task.sleep(nanoseconds: 100_000_000) // 0.1초
+        }
+        guard let topVC = presenter else { return nil }
 
         return await withCheckedContinuation { (continuation: CheckedContinuation<Bool?, Never>) in
             var didResume = false
@@ -38,8 +50,15 @@ enum ConsentManager {
             hostRef = host
             host.view.backgroundColor = .white
             host.isModalInPresentation = true // isDismissible:false, enableDrag:false
+
+            // 내용 높이에 딱 맞게 시트 크기 결정 (medium detent 는 아래 빈 공간이 크게 남음)
+            let width = topVC.view.bounds.width
+            let fitting = host.sizeThatFits(in: CGSize(width: width, height: .greatestFiniteMagnitude))
+            let bottomInset = topVC.view.window?.safeAreaInsets.bottom ?? 0
+            let sheetHeight = fitting.height + bottomInset
+
             if let presentation = host.sheetPresentationController {
-                presentation.detents = [.medium(), .large()]
+                presentation.detents = [.custom { _ in sheetHeight }]
                 presentation.preferredCornerRadius = 24
                 presentation.prefersGrabberVisible = false
             }
@@ -50,9 +69,14 @@ enum ConsentManager {
     // 최상단 뷰 컨트롤러 탐색
     @MainActor
     static func topViewController() -> UIViewController? {
-        let scenes = UIApplication.shared.connectedScenes
-        let windowScene = scenes.first { $0.activationState == .foregroundActive } as? UIWindowScene
-        var top = windowScene?.windows.first(where: { $0.isKeyWindow })?.rootViewController
+        // 시스템 권한 팝업이 떠 있는 동안에는 scene 이 foregroundActive 가 아닐 수 있으므로
+        // active scene 이 없으면 아무 UIWindowScene 이라도 사용한다.
+        let scenes = UIApplication.shared.connectedScenes.compactMap { $0 as? UIWindowScene }
+        let scene = scenes.first { $0.activationState == .foregroundActive } ?? scenes.first
+        guard let window = scene?.windows.first(where: { $0.isKeyWindow }) ?? scene?.windows.first else {
+            return nil
+        }
+        var top = window.rootViewController
         while let presented = top?.presentedViewController {
             top = presented
         }
@@ -141,7 +165,8 @@ struct ConsentSheetView: View {
         .padding(.horizontal, 30)
         .padding(.top, 18)
         .padding(.bottom, 20)
-        .frame(maxWidth: .infinity, maxHeight: .infinity, alignment: .top)
+        // 세로는 내용만큼만 차지해야 시트 높이를 내용에 맞출 수 있다
+        .frame(maxWidth: .infinity, alignment: .top)
         .background(Color.white)
     }
 }
